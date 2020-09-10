@@ -190,4 +190,6 @@ September 10, 2020
 Today I summarized the confusion matrices I generated yesterday into one large matrix using R. [Script here](https://github.com/allisoncoomber/SSRMatch_analysis/blob/master/summary_statistics_SSR_matcher.R)
 
 I then reformatted this table in Excel and added in 0s for any lineages which did not have any matches. Actual matches are across the top and predicted matches are across the y-axis. 
+
+
 ![Confusion Matrix](https://github.com/allisoncoomber/SSRMatch_analysis/blob/master/Images/confusion_matrix.png)
